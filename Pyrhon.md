@@ -437,4 +437,82 @@ Fount it
   [('url', 'http://www.python.org'), ('spam', 0), ('title', 'Python Web Site')]
   ~~~
 
-  ​
+- keys和iterkeys
+
+  将字典中的键以列表形式返回，而iterskeys则返回针对键的迭代器。
+
+- pop
+
+  用来获得对应于给定键的值，然后将这个键-值对从字典中移除。
+
+  ~~~python
+  >>>d = {'x':1,'y':2}
+  >>>d.pop('x')
+  1
+  >>>d
+  {'y':'2'}
+  ~~~
+
+- popitem
+
+  移除随机的项
+
+- setdefault
+
+  获得与给定键相对应的值，并且能在字典不含有给定键的情况下设定相关的键值。
+
+  ~~~python
+  >>>d = {}
+  >>>d.setdefault('name','N/A')
+  'N/A'
+  >>>d
+  {'name':'N/A'}
+  #默认值可选，默认为None
+  ~~~
+
+- update
+
+  可以利用一个字典项更新另一个字典
+
+- values和itervalues
+
+  以列表形式返回字典的值（itervalues返回值的迭代器），返回的列表中可以含有重复的元素。
+
+
+
+## 第五章 条件、循环和其他语句
+
+#### 5.1 print 和 import 的更多信息
+
+#### 5.1.1 使用逗号输出
+
+#### 5.1.2 吧某件事作为另一件事导入
+
+~~~python
+import somemodule
+from somedule import somefunction,anotherfunction
+from somemodule import *
+#导入所有功能
+>>>import math as foobar#取别名
+>>>from math import sqrt as foobar
+~~~
+
+### 5.2 赋值魔法
+
+#### 5.2.1 序列解包
+
+#### 5.2.2链式赋值
+
+#### 5.2.3增量赋值
+
+### 5.3 语句块
+
+#### 5.4 条件和条件语句
+
+#### 5.4.1 布尔变量的作用
+
+#### 5.4.2-5.4.5 if else elif 语句
+
+#### 5.4.6 更复杂的条件
+
+1. 比较运算符
