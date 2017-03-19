@@ -516,3 +516,64 @@ from somemodule import *
 #### 5.4.6 更复杂的条件
 
 1. 比较运算符
+2. 相等运算符
+3. is 同意性运算符（判断是否是同一对象）
+4. in 成员资格运算符
+5. 字符串和序列比较
+6. 布尔运算符
+
+#### 5.4.7 断言
+
+关键字assert
+
+~~~python
+>>> age = -1
+>>> assert 0 < age < 100,'The age must be realistic'
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+AssertionError: The age must be realistic
+~~~
+
+### 5.5循环
+
+#### 5.5.1 While
+
+~~~python
+>>> name = ''
+>>> while not name:
+...     name = raw_input('Please enter your name:')
+...
+Please enter your name:chenhcong
+>>> print 'Hello,%s' % name
+Hello,chenhcong
+~~~
+
+#### 5.5.2 for
+
+~~~python
+words = ['this','is','an',ex','parror']
+for word in words:
+	print word
+~~~
+
+~~~python
+for i in range(10):
+	print i
+#range()创建整个列表，xrange()一次调用创建一个数，可以有效节省资源】
+for i in xrange(10):
+	print i
+~~~
+
+#### 5.5.3 循环遍历字典元素
+
+~~~python
+>>> for key in d:
+...     print key,'correspond to',d[key]
+...
+y correspond to 2
+x correspond to 1
+z correspond to 3
+~~~
+
+#### 5.5.4 一些迭代工具
+
