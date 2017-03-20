@@ -1,5 +1,9 @@
 # Python
 
+[TOC]
+
+
+
 ### 2.2.2 分片
 
 ~~~python
@@ -192,7 +196,7 @@ ValueError: attempt to assign sequence of size 3 to extended slice of size 5
 
 - 高级排序
 
-#### 2.4 元组
+### 2.4 元组
 
 不可修改的序列
 
@@ -216,19 +220,19 @@ ValueError: attempt to assign sequence of size 3 to extended slice of size 5
 
 ## ***第三章 字符串***
 
-#### 3.1 基本操作
+### 3.1 基本操作
 
 > 字符串不可改变
 
-#### 3.2 字符串格式化
+### 3.2 字符串格式化
 
 > 字符串格式化使用字符串格式化操作符即百分号%来实现
 
 *注释：%也可用于模运算（求余）操作符*
 
-#### 3.4 字符串方法
+### 3.4 字符串方法
 
-##### 3.4.1 find 
+#### 3.4.1 find 
 
 在字符串中查找字串，并返回字串所在的位置的最左端的索引。
 
@@ -255,7 +259,7 @@ ValueError: attempt to assign sequence of size 3 to extended slice of size 5
 
 
 
-##### 3.4.2 join
+#### 3.4.2 join
 
 连接序列中的元素（只能是字符串）
 
@@ -334,11 +338,11 @@ Fount it
 
 ## 第四章 字典
 
-#### 4.1 字典的使用
+### 4.1 字典的使用
 
-#### 4.2 创建和使用字典 
+### 4.2 创建和使用字典 
 
-#### dict 函数
+- dict 函数
 
 通过其他映射（比如其他字典）或者（键，值）对的序列建立字典。
 
@@ -351,11 +355,11 @@ Fount it
 {'age':20,'name':'20'}
 ~~~
 
-#### 基本字典操作
+- 基本字典操作
 
 > 见coding\Code\cl-4-1.py
 
-#### 字典的格式化字符串
+- 字典的格式化字符串
 
 #### 4.2.4 字典方法
 
@@ -482,7 +486,7 @@ Fount it
 
 ## 第五章 条件、循环和其他语句
 
-#### 5.1 print 和 import 的更多信息
+### 5.1 print 和 import 的更多信息
 
 #### 5.1.1 使用逗号输出
 
@@ -577,3 +581,48 @@ z correspond to 3
 
 #### 5.5.4 一些迭代工具
 
+1. 并行迭代
+
+   同时迭代两个序列
+
+   ~~~python
+   >>> name = ['anne','beth','george','damon']
+   >>> age = [12,22,32,42]
+   >>> for i in range(len(name)):
+   ...     print name[i],'is',age[i],'old'
+   ...
+   anne is 12 old
+   beth is 22 old
+   george is 32 old
+   damon is 42 old
+
+   >>> zip(name,age)#用元组压缩两个序列
+   [('anne', 12), ('beth', 22), ('george', 32), ('damon', 42)]
+   >>> for name,age in zip(name,age):
+   ...     print name,'is',age,'years old'
+   ...
+   anne is 12 years old
+   beth is 22 years old
+   george is 32 years old
+   damon is 42 years old
+   ~~~
+
+2. 按索引迭代
+
+3. 翻转和排序迭代
+
+   ```python
+   >>> sorted([1,4,5,6,4,3,9])
+   [1, 3, 4, 4, 5, 6, 9]
+   >>> sorted('Hello,words')
+   [',', 'H', 'd', 'e', 'l', 'l', 'o', 'o', 'r', 's', 'w']
+   #将元素降序排列，sort 升序排列
+   >>> list(reversed('Hello,words'))
+   ['s', 'd', 'r', 'o', 'w', ',', 'o', 'l', 'l', 'e', 'H']
+   >>> ''.join(reversed('Hello,words'))#join将字符连接成字符串，spilt将字符串分成单个字符的序列
+   'sdrow,olleH'
+   ```
+
+   ​
+
+   ​

@@ -1,17 +1,3 @@
-男主角是奇异博士
-
-女主角是奇异博士的莫负斗篷
-
-其实在相遇之前奇异博士也不知道自己的那个她是件斗篷
-
-那时候，他最珍视的伙伴是她的手
-
-因为他是个外科医生，所有的一切都是用这双手获得的
-
-喜玛来雅  卡玛泰姬
-
-
-
 
 
 
@@ -38,4 +24,23 @@ Ellie
 Tino之后的狗生，轮回成了Buddy。在离开一对不负责任的夫妇以后，Buddy凭着身为Ellie时的搜寻本领，寻着前世熟悉的气味，一路来到了“Bailey”所生活过的地方，他遇到了曾经魂牵梦绕的主人Ethan。Ethan的母亲，祖父母早已不在，Buddy还是一眼就认出了他！经过了几世轮回，Buddy终于回到了原点。他感知Ethan的不开心，像曾为青年Ethan做的那样，找到Ethan的少时情人Hanna。年逾古稀的情人冰释前嫌，终于走在一起。Ethan回归到那个开心的Ethan，Buddy想，下一步是要让Ethan知道他就是他幼时一起成长的伙伴“Bailey”！当老年Ethan和Buddy重演那个幼时Ethan最钟爱的fetch，Buddy使出全身力气，ready，奔跑，jump，接住！他叼着球摇着尾巴走到Ethan旁边时，Ethan终于发现，这个突然出现的朋友不是别的buddy，他就是Bailey！这个时候他们对视，老年Ethan的眼里噙着泪水，他抚摸着他，无言。洗尽铅华的老朋友啊，转了好几世，Ethan，我终于再遇见你。
 
 
-Buddy
+
+A dog looks to discover his purpose in life over the course of several lifetimes and owners
+
+
+
+------
+
+Bailey is a [Golden Retriever](https://en.wikipedia.org/wiki/Golden_Retriever) whose life is shown from his birth to his death and to his [reincarnation](https://en.wikipedia.org/wiki/Reincarnation) through four different [dog breeds](https://en.wikipedia.org/wiki/Dog_breeds). Each time he is reincarnated, it tells his story from life to death, except in the latest life, where he meets his original owner again.
+
+The movie begins in an unspecified year during the 1950s. It is then that the narrator canine begins and ends a very brief life as a wild puppy who is whisked away to the dog pound and quickly put to death. The beginning of his next life is very clearly tied in to the [Cuban Missile Crisis](https://en.wikipedia.org/wiki/Cuban_Missile_Crisis) of 1961. As a growing young doggie, Bailey is spotted inside a locked pick-up truck on a hot summer day and is rescued from certain death by a young boy named Ethan and his mother.
+
+As the years pass, Ethan grows into a strapping high school football player who falls in love with his classmate Hannah. But events take a dark turn when Ethan's alcoholic father shoves his mother to the ground in a drunken rage. Ethan orders his father to leave and never come back. A vindictive classmate later throws a lit firecracker into Ethan's house as a harmless prank which unintentionally results in a catastrophic fire. This would surely have resulted in the deaths of a sound-asleep Ethan and his mother were it not for Bailey's quick action in rousing them from their beds. Ethan badly fractures his leg, however, during the fall from the second-story window, ending his dreams of an athletic scholarship, and he must go to [agricultural school](https://en.wikipedia.org/wiki/Agricultural_school) instead. Self-pitying and embittered, he breaks off his relationship with Hannah before leaving for college. Sometime afterwards, an aged Bailey slowly expires at the veterinarian's office after sharing an eleventh-hour teary goodbye with Ethan.
+
+Bailey reincarnates into another dog life, a female [German Shepherd](https://en.wikipedia.org/wiki/German_Shepherd) [K-9](https://en.wikipedia.org/wiki/Police_dog) named Ellie, while remembering his previous existence. Ellie is working with an officer, Carlos, from the [Chicago Police Department](https://en.wikipedia.org/wiki/Chicago_Police_Department), sometime in the early 1980s. The two form a close relationship which ends after Ellie jumps into a rushing river and saves a kidnapped girl from drowning because he is then shot and mortally wounded during a struggle with the armed kidnapper who was a moment away from killing an unsuspecting Carlos.
+
+Reincarnated in the mid-1980s as a [Pembroke Welsh Corgi](https://en.wikipedia.org/wiki/Pembroke_Welsh_Corgi) named Tino, he forms a bond with Maya, a college student in Atlanta whom he helps to find true love. Maya marries and has a beautiful family who all love the Corgi. As he lies dying of old age in the late 1990s, Tino thanks Maya for giving him one of his best lives. Tino is again reincarnated to a [Saint Bernard](https://en.wikipedia.org/wiki/Saint_Bernard_(dog)) named Buddy, only to be taken in by an abusive and neglectful "[trailer trash](https://en.wikipedia.org/wiki/Trailer_trash)" couple sometime during the next decade.
+
+Buddy is eventually dumped in an abandoned lot by the alcoholic, roughneck young man and reluctantly sets off in search of a new life. He gradually makes his way to the country area where his first life began without even realizing at first where he is headed. He joyfully reunites with his old master Ethan, who is now at the far end of middle age, living a lonely solitary life and apparently broken in spirit. Ethan, of course, initially has no idea who this wandering Saint Bernard really is and hands him over to the local animal shelter. But he soon has a change of heart and reclaims him.
+
+Buddy, sensing that he has finally found the purpose in life that has long evaded him, finds a way to reunite Ethan with a widowed Hannah, and they eventually get married. At the movie's end, Buddy finally convinces Ethan that he is Ethan's beloved childhood pet by performing some tricks and responding to key phrases that were known only to the two of them all those many, many long years ago
