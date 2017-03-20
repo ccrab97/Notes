@@ -623,6 +623,68 @@ z correspond to 3
    'sdrow,olleH'
    ```
 
-   ​
+
+#### 5.5.5跳出循环
+
+1. break
+
+   跳出循环
+
+   ```python
+   >>> from math import sqrt
+   >>> for n in range(99,0,-1):
+   ...     root = sqrt(n)
+   ...     if root == int(root):
+   ...             print n
+   ...             break
+   ...
+   81
+   ```
+
+2. continue
+
+   当前迭代结束，跳至下一循环开始
+
+3. while True/break习语
+
+   ```python
+   >>> while True:
+   ...     word = raw_input('Please enter a word:')
+   ...     if not word:break
+   ...     print 'The word is '+word
+   ...
+   Please enter a word:chong
+   The word is chong
+   Please enter a word:
+   ```
+
+   #### 5.5.6 循环中的else子句
+
+   ### 5.6 列表推导式——轻量级循环
+
+   ```python
+   >>> girls = ['alice','bernice','clarice']
+   >>> boys = ['chris','arnold','bob']
+   >>> [b+'+'+g for b in boys for g in girls if b[0] == g[0]]
+   ['chris+clarice', 'arnold+alice', 'bob+bernice']
+   ```
+
+   ### 5.7三人行
+
+   #### 5.7.1 pass
+
+   跳过，用于未完成的函数和类
+
+   #### 5.7.2 del
+
+   删除变量名称，但不删除数据
+
+   > 注：在python中，某一值不再使用时，python解释器会负责内存的回收。
+
+   #### 5.7.3 使用exec和eval执行和求值字符串
+
+   有时候可能会需要动态地创造python代码，然后将其作为语句执行或作为表达式计算，这可能近似于“黑魔法”——在此之前一定要慎之又慎。
+
+   > 注：该方式有严重安全隐患。如果程序将用户提供的一段内容作为代码执行，程序可能会对代码执行失去控制，此情况在网络应用程序——比如CGI脚本中尤为危险。
 
    ​
